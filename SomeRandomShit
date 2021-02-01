@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T08:33:08.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="kKu23picsf6tKaL6P5KU" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-01T09:20:34.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="pNOswJib7qGozHXzkHSo" version="14.2.4" type="github">
   <diagram id="9HlhpeGiVg1y7-V5FU7U" name="Page-1">
-    <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EbSjPUufUSR5W2t0Vr0Z-1" value="Generate Pokémon cards" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EbSjPUufUSR5W2t0Vr0Z-1" value="Generate random Pokémon cards" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EbSjPUufUSR5W2t0Vr0Z-2" value="Display all owned cards" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
         <mxCell id="EbSjPUufUSR5W2t0Vr0Z-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="670" width="50" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="EbSjPUufUSR5W2t0Vr0Z-12" value="Worth of card gets genarated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EbSjPUufUSR5W2t0Vr0Z-12" value="Rating gets generated&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="685" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EbSjPUufUSR5W2t0Vr0Z-13" value="Checker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
